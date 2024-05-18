@@ -16,6 +16,7 @@
 		5183EAB92BF921700047D039 /* project_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5183EAB82BF921700047D039 /* project_testTests.swift */; };
 		5183EAC32BF921710047D039 /* project_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5183EAC22BF921710047D039 /* project_testUITests.swift */; };
 		5183EAC52BF921710047D039 /* project_testUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5183EAC42BF921710047D039 /* project_testUITestsLaunchTests.swift */; };
+		5183EAD22BF94B3E0047D039 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5183EAD12BF94B3E0047D039 /* Home.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5183EABE2BF921710047D039 /* project-testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "project-testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5183EAC22BF921710047D039 /* project_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = project_testUITests.swift; sourceTree = "<group>"; };
 		5183EAC42BF921710047D039 /* project_testUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = project_testUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5183EAD12BF94B3E0047D039 /* Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5183EAAA2BF9216F0047D039 /* Assets.xcassets */,
 				5183EAAC2BF9216F0047D039 /* LaunchScreen.storyboard */,
 				5183EAAF2BF9216F0047D039 /* Info.plist */,
+				5183EAD12BF94B3E0047D039 /* Home.storyboard */,
 			);
 			path = "project-test";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				5183EAAE2BF9216F0047D039 /* LaunchScreen.storyboard in Resources */,
 				5183EAAB2BF9216F0047D039 /* Assets.xcassets in Resources */,
 				5183EAA92BF9216B0047D039 /* Main.storyboard in Resources */,
+				5183EAD22BF94B3E0047D039 /* Home.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
