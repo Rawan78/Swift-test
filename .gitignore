@@ -1,2 +1,4 @@
 project-test.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserstate
 .xcuserstate
+**/xcuserdata/*.xcuserdatad/UserInterfaceState.xcuserstate
+
