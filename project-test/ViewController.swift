@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        
         print("first commit to div")
+        
+        print("second commit to div")
     }
 
 
