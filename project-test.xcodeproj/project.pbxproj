@@ -110,11 +110,8 @@
 				5183EAAA2BF9216F0047D039 /* Assets.xcassets */,
 				5183EAAC2BF9216F0047D039 /* LaunchScreen.storyboard */,
 				5183EAAF2BF9216F0047D039 /* Info.plist */,
-<<<<<<< HEAD
 				5183EAD12BF94B3E0047D039 /* Home.storyboard */,
-=======
 				409594E12BF982C900770F78 /* mina.storyboard */,
->>>>>>> main
 			);
 			path = "project-test";
 			sourceTree = "<group>";
@@ -243,11 +240,8 @@
 				5183EAAE2BF9216F0047D039 /* LaunchScreen.storyboard in Resources */,
 				5183EAAB2BF9216F0047D039 /* Assets.xcassets in Resources */,
 				5183EAA92BF9216B0047D039 /* Main.storyboard in Resources */,
-<<<<<<< HEAD
 				5183EAD22BF94B3E0047D039 /* Home.storyboard in Resources */,
-=======
 				409594E22BF982C900770F78 /* mina.storyboard in Resources */,
->>>>>>> main
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
